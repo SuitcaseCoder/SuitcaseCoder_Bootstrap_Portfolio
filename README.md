@@ -1,7 +1,7 @@
 ## November Newsletter Coding Challenge
 #### by: Suitcase Coder
 
-This month's challenge is to build your own portfolio using HTML, CSS, and Bootstrap.  
+This month's challenge is to build your own portfolio using HTML, CSS, and Bootstrap. Join in for monthly coding challenges [here](http://eepurl.com/hcilqb)
 
 ### Live Example:
 Check out the live version of the example [here](https://suitcasecoder.github.io/SuitcaseCoder_Bootstrap_Portfolio/)
